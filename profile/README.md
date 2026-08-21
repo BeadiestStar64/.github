@@ -1,56 +1,79 @@
 <h1 align="center">🌸はじめまして、こんにちは🌸</h1>
-<p align="center">プロフィール欄にようこそ</p>
-<hr />
+
+<p align="center">
+  <img
+    src="https://wsrv.nl/?url=github.com/BeadiestStar64.png&w=160&h=160&fit=cover&mask=circle"
+    width="160"
+    height="160"
+    alt="BeadiestStar64"
+  />
+  <br />
+</p>
+
+<h3 align="center">
+  基盤モデル、小規模言語モデル、GPUプログラミング
+</h3>
+
+<p align="center">
+  <a href="https://beadiest-star64.com" _blank>
+    ホームページはここをクリック
+  </a>
+</p>
+
 <h2>GitHubのデータ</h2>
 
-!["https://github.com/BeadiestStar64"](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeadiestStar64&theme=tokyonight&animation=draw)
+<a href="https://github.com/BeadiestStar64">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeadiestStar64&theme=tokyonight&animation=draw"
+    width="98%"
+  />
+</a>
 
-!["https://github.com/BeadiestStar64?tab=repositories"](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeadiestStar64&theme=tokyonight&animation=draw)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeadiestStar64&theme=tokyonight&animation=draw)
+<p>
+  <a href="https://github.com/BeadiestStar64?tab=repositories">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeadiestStar64&theme=tokyonight&animation=draw"
+      width="49%"
+    />
+  </a>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeadiestStar64&theme=tokyonight&animation=draw"
+    width="49%"
+  />
+</p>
 
 <br />
 <h2>Zennのデータ</h2>
+<p>
+  <img src="https://badgen.org/img/zenn/beadiest_star64/likes?style=plastic" width="20%" />
+  <img src="https://badgen.org/img/zenn/beadiest_star64/followers?style=plastic" width="20%" />
+  <a href="https://zenn.dev/beadiest_star64">
+    <img src="https://badgen.org/img/zenn/beadiest_star64/articles?style=plastic" width="20%" />
+  </a>
+  <a href="https://zenn.dev/beadiest_star64?tab=books">
+    <img src="https://badgen.org/img/zenn/beadiest_star64/books?style=plastic" width="20%" />
+  </a>
+</p>
 
-![](https://badgen.org/img/zenn/beadiest_star64/likes?style=plastic)
-![](https://badgen.org/img/zenn/beadiest_star64/followers?style=plastic)
-![https://zenn.dev/beadiest_star64](https://badgen.org/img/zenn/beadiest_star64/articles?style=plastic)
-![https://zenn.dev/beadiest_star64?tab=books](https://badgen.org/img/zenn/beadiest_star64/books?style=plastic)
+<hr />
 
----
+<h1>私について</h1>
+<p>
+  Java、Rustを得意としている大学生です。
+  <br />
+  将来は基盤モデルエンジニア兼フルスタックエンジニアを目指して、日々学習中です。
+</p>
 
-# 私について
-
-日本にある、とある大学の大学生です。RustとJavaを得意言語としており、Python、TypeScriptも書く事ができます。
-
-Foundational Model Engineerを目指して、日々学習中です。
-
----
-
-# 所属団体
-
-Google Developer Groupsをはじめとする、いくつかの開発者コミュニティで活動しています。
-
-<img src="../google-developers-seeklogo.svg" height=30/>
-
----
-
-# 得意な言語
-
-### 1. Java
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height=50 />
-
-幼い頃からJavaを学び始めました。MinecraftのPaper MCのプラグイン開発で、Javaをある程度履修しました。
-
-### 2. Rust
-
-<img src="../rust-logo.png" height=50 />
-
-JavaからRustを学び始めました。最近の主要な開発では、Rustを選択する事が多いです。
-現在、並列プログラミングを勉強中です。
-
-### 3. Python
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=50 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height=50 />
-
-大学生でPyTorchを使い始めてから、Pythonを本格的に学び始めました。
+<h1>得意な言語</h1>
+左から順に、得意な言語を並べました！
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="10%" />
+  <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/refs/heads/main/logo/rust-logo-white-outline.svg" width="10%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="10%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="10%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="10%" />
+  <img src="https://www.svgrepo.com/download/373541/cuda.svg" width="10%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="10%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="10%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="10%" />
+</p>
